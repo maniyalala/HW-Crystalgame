@@ -1,0 +1,52 @@
+  	body {
+  		background-color: gray;
+
+  	}
+
+  	h1 {
+  		color: orange;
+  		text-align: center;
+  		font-family: verdana;
+  		
+  	}
+
+
+.firstcrystal {
+    margin: auto;
+    width: 50%;
+    border: 5px solid green;
+    padding: 10px;
+}
+
+.secondcrystal {
+    margin: auto;
+    width: 50%;
+    border: 5px solid green;
+    padding: 10px;
+}
+
+.thirdcrystal {
+    margin: auto;
+    width: 50%;
+    border: 5px solid green;
+    padding: 10px;
+}
+
+.fourthcrystal {
+    margin: auto;
+    width: 50%;
+    border: 5px solid green;
+    padding: 10px;
+}
+
+
+  	.firstcrystal, .secondcrystal, .thirdcrystal, .fourthcrystal {
+   		margin: auto;
+   		margin-left: 125px;
+  		height: 125px;
+  		width: 125px;
+  		float: left;
+
+  	}
+
+  	.
